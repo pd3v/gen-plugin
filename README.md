@@ -9,6 +9,7 @@ gen is a plugin for generative music.
 - MIDI CC
 - all above parameters dynamically resettable
 - note generated LED like indicator 
+
 (macOS only)
 
 <noscript><a href="https://liberapay.com/pd3v/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
