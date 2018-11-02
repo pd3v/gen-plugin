@@ -1,3 +1,7 @@
+### 0.9.2 version
+
+- 1/3 and 1/6 notes on/off buttons
+
 ### 0.9.1 version
 
 - diatonic scale notes's toggle buttons for every kind of scale/arpeggio setting
