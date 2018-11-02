@@ -6,6 +6,7 @@ gen is a plugin for generative music.
 - diatonic scale notes's toggle buttons for every kind of scale/arpeggio setting
 - note velocity, duration and octave min/max interval sliders
 - synchronising to host software bpm button
+- 1/3 and 1/6 notes on/off buttons
 - MIDI CC
 - all above parameters dynamically resettable
 - note generated LED like indicator 
