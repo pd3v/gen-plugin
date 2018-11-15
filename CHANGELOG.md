@@ -1,3 +1,8 @@
+### 0.9.3 version
+
+- automation sliders fully setting parameters; no need for plugin's visible UI 
+- save/load user settings
+
 ### 0.9.2 version
 
 - 1/3 and 1/6 notes on/off buttons
