@@ -1,6 +1,6 @@
 ### 0.9.3 version
 
-- automation sliders fully setting parameters; no need for plugin's visible UI 
+- automation sliders fully setting parameters; no need for plugin's UI 
 - save/load user settings
 
 ### 0.9.2 version
