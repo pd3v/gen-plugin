@@ -1,3 +1,8 @@
+### 0.9.4 version
+
+- add Inertia slider; assignable to note's parameters
+- sliders' values popups redesigning
+
 ### 0.9.3 version
 
 - automation sliders fully setting parameters; no need for plugin's UI 
