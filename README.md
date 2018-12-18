@@ -15,5 +15,7 @@ gen is a vst plugin for generative music.
 
 (macOS only)
 
+[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/R5R3NI63)
+
 <noscript><a href="https://liberapay.com/pd3v/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
