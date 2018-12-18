@@ -4,7 +4,6 @@ gen is a vst plugin for generative music.
 ![gen's UI](https://github.com/pd3v/gen-plugin/blob/master/gen%200.9.4%20UI.png)
 
 - Inertia slider assignable to all parameters
-- Sliders' values popups redesigning
 - diatonic scale notes's toggle buttons for every kind of scale/arpeggio setting
 - note velocity, duration and octave min/max interval sliders
 - synchronising to host software bpm button
