@@ -1,5 +1,5 @@
 # gen-plugin
-gen is a plugin for generative music.
+gen is a vst plugin for generative music.
 
 ![gen's UI](https://github.com/pd3v/gen-plugin/blob/master/gen%200.9.4%20UI.png)
 
