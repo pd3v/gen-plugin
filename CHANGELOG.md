@@ -2,7 +2,7 @@
 
 - sync accuracy improvements
 - sync button CC
-- all inertia param CC
+- all inertia params CC
 - save/load sync and inertia user settings
 
 ### 0.9.4 version
