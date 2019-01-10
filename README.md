@@ -1,7 +1,7 @@
 # gen-plugin
 gen is a vst plugin for generative music.
 
-![gen's UI](https://github.com/pd3v/gen-plugin/blob/master/gen%200.9.4%20UI.png)
+![gen's UI](https://github.com/pd3v/gen-plugin/blob/master/gen%200.9.5%20UI.png)
 
 - Inertia slider assignable to all parameters
 - diatonic scale notes's toggle buttons for every kind of scale/arpeggio setting
