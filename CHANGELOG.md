@@ -1,3 +1,10 @@
+### 0.9.5 version
+
+- sync accuracy improvements
+- sync button CC
+- all inertia param CC
+- save/load sync and inertia user settings
+
 ### 0.9.4 version
 
 - add Inertia slider; assignable to note's parameters
