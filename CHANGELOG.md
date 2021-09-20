@@ -1,3 +1,9 @@
+### 0.9.6 version
+
+- replace 1/3 and 1/6 labels with 4T and 8T
+- fix 4T and 8T beat durations
+- references fix
+
 ### 0.9.5 version
 
 - sync accuracy improvements
